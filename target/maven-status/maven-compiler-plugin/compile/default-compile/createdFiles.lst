@@ -1,0 +1,13 @@
+guru\springframework\SpringBootWebApplication.class
+guru\springframework\controllers\PageWrapper$PageItem.class
+guru\springframework\controllers\ProductController.class
+guru\springframework\dao\ProductRepository.class
+guru\springframework\configuration\WebConfiguration.class
+guru\springframework\entity\Product.class
+guru\springframework\controllers\IndexController.class
+guru\springframework\services\ProductService.class
+guru\springframework\configuration\WebConfig.class
+guru\springframework\bootstrap\ProductLoader.class
+guru\springframework\controllers\PageWrapper.class
+guru\springframework\configuration\SecurityConfiguration.class
+guru\springframework\services\ProductServiceImpl.class
